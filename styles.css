@@ -1,1 +1,13 @@
 /* Write your CSS here! */
+body {
+	width: 90%;
+	max-width: 1024px;
+	margin: 100px;
+	background-color: #fffaf0;
+	font-size: 100%;
+    font-family: "Raleway", sans-serif
+}
+
+header {
+    text-align: center;
+}
