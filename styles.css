@@ -1,13 +1,20 @@
 /* Write your CSS here! */
 body {
 	width: 90%;
-	max-width: 1024px;
+	max-width: 800px;
 	margin: 100px;
-	background-color: #fffaf0;
+	background-color: #ebb8dd;
 	font-size: 100%;
-    font-family: "Raleway", sans-serif
+    font-family: Arial, Helvetica, sans-serif
 }
 
 header {
-    text-align: center;
+    text-align: left;
 }
+
+figcaption {
+	font-size: 10px;
+	font-style: italic;
+}
+
+
